@@ -77,3 +77,5 @@ Price chart (BTCUSDT & ETHUSDT)
 Spread chart
 Z-score chart
 
+### Architecture Diagram
+<img width="926" height="323" alt="image" src="https://github.com/user-attachments/assets/5d18ac07-645e-4e89-bb7d-801c5a1e3a26" />
